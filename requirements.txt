@@ -1,0 +1,15 @@
+gensim
+numpy
+networkx
+nltk
+pandas
+pymorphy2
+scikit-learn
+tqdm
+matplotlib
+tensorflow==1.15.2
+deeppavlov
+transformers
+fasttext
+python-Levenshtein
+torch==1.6.0
